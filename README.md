@@ -19,7 +19,7 @@ this is a example image of the **Main page** of the Note App :
 Download the project first using this cmd :
 
 ```
-git clone https://github.com/drisskhattabi6/Django-Note-App.git
+https://github.com/Akashga1234/AKASH.git
 ```
 
 Once the project is downloaded, navigate into the project directory:
